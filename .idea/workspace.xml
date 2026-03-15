@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ef56dd1-aee2-4329-b7f6-c1ad49c24260" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bridgelabz_training/src/com/gla/Arrays/employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_programming 2/addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/basic_programming 2/addition.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="397YYMlo0B7aJNs4HwiXs800skN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.height.executor": "Run",
+    "Application.sum2.executor": "Run",
+    "Application.vote.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "programming__constructs",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Piyush Agarwal/OneDrive/Desktop/Bridgelabz-Training-1Y",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.height">
+    <configuration name="height" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_1.height" />
+      <module name="Bridgelabz-Training-1Y" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_1.sum2" />
+      <module name="Bridgelabz-Training-1Y" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level_1.vote" />
+      <module name="Bridgelabz-Training-1Y" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.height" />
+        <item itemvalue="Application.vote" />
+        <item itemvalue="Application.sum2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef56dd1-aee2-4329-b7f6-c1ad49c24260" name="Changes" comment="" />
+      <created>1770048623135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770048623135</updated>
+      <workItem from="1770048624497" duration="1236000" />
+      <workItem from="1770107183047" duration="352000" />
+      <workItem from="1770107636197" duration="764000" />
+      <workItem from="1770109787735" duration="37000" />
+      <workItem from="1770142447406" duration="322000" />
+      <workItem from="1770193596914" duration="5000" />
+      <workItem from="1770194866258" duration="28000" />
+      <workItem from="1770214528540" duration="49000" />
+      <workItem from="1770268322961" duration="24000" />
+      <workItem from="1770268575730" duration="183000" />
+      <workItem from="1770268841053" duration="61000" />
+      <workItem from="1770271890527" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
