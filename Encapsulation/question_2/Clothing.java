@@ -1,0 +1,18 @@
+package question_2;
+class Clothing extends Product implements Taxable {
+    public Clothing(int id, String name, double price) {
+        super(id, name, price);
+    }
+
+    double calculateDiscount() {
+        return price * 0.20;
+    }
+
+    public double calculateTax() {
+        return price * 0.05;
+    }
+
+    public String getTaxDetails() {
+        return "5% GST";
+    }
+}
